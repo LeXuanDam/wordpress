@@ -18,6 +18,7 @@ if ( ! function_exists( 'storefront_display_comments' ) ) {
 		endif;
 	}
 }
+//master
 //dampow
 if ( ! function_exists( 'storefront_comment' ) ) {
 	/**
