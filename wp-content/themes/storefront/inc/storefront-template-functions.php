@@ -20,6 +20,7 @@ if ( ! function_exists( 'storefront_display_comments' ) ) {
 }
 //master
 //dampow
+//dampow
 if ( ! function_exists( 'storefront_comment' ) ) {
 	/**
 	 * Storefront comment template
