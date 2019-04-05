@@ -34,3 +34,4 @@ get_header(); ?>
 <?php
 do_action( 'storefront_sidebar' );
 get_footer();
+var_dump(1);die;
