@@ -27,7 +27,7 @@ $storefront = (object) array(
 	'main'       => require 'inc/class-storefront.php',
 	'customizer' => require 'inc/customizer/class-storefront-customizer.php',
 );
-
+//master
 require 'inc/storefront-functions.php';
 require 'inc/storefront-template-hooks.php';
 require 'inc/storefront-template-functions.php';
